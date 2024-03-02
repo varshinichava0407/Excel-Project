@@ -1,5 +1,5 @@
 # Coffee Sales Dashboard
-Process:
+Process:<br>
 ->Gathered or Combined the data using Lookup functions and Index Matching
 ->Formatted the Columns
 -> Data Cleaning
